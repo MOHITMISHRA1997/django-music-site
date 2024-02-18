@@ -55,3 +55,7 @@ python manage.py runserver
 ```
 
 ## Screenshots 
+
+![Screenshot from 2024-02-18 19-41-27](https://github.com/MOHITMISHRA1997/django-music-site/assets/125533299/c2e822d4-747b-4892-a9ad-50ed9555938a)
+
+![Screenshot from 2024-02-18 19-41-37](https://github.com/MOHITMISHRA1997/django-music-site/assets/125533299/aa7eb457-eede-47ee-9fe0-f2511f8e4f84)
